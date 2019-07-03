@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#5f71e3</color>
+    <color name="colorAccent">#0b0a0a</color>
+    <color name="maviButton">#999e96</color>
+    <color name="kirmiziButton">#8f0f19</color>
+    <color name="sariButton">#e4c412</color>
+    <color name="beyaz">#086603</color>
+
+</resources>
